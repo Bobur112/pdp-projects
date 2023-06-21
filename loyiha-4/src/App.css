@@ -1,0 +1,30 @@
+/*  Header  */
+
+a {
+  text-decoration: none;
+}
+.navtop {
+  padding: 10px 30px;
+  border-bottom: 3px solid #e1645c;
+}
+.btn-1 {
+  border-radius: 50%;
+  border-color: #d2d4d6;
+}
+.btn-icon:not(:first-child) {
+  border: none;
+}
+small {
+  color: #e1645c;
+  margin-left: 5px;
+}
+.btn-exit {
+  border: none;
+  border-color: #fff;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.korzina {
+  margin-bottom: 15px;
+}
+/*  Section-1 */
